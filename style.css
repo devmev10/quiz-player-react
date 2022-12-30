@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background: #ADA996;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 0 20%;
+    height: vh;
+}
+
+.main-element-app{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    
+}
+.button, .result{
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-top: 10px; 
+    color: #6b34eb;
+    align-self: center;
+}
+
+.resultAndButtonDiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.question {
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.answers {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 15px;
+    column-gap: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+
+.individualAnswer{
+    padding: 5px 15px 5px 15px;
+    border: 1px solid black;
+    border-radius: 15px; 
+    cursor: pointer;
+}
+
+h2{
+    font-family: 'Karla', sans-serif;
+    align-self: center;
+}
