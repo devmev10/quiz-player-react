@@ -5,7 +5,7 @@ This project helped me solidify primary concept of React inlcluding basic hooks 
 
 [Quiz App](https://devmev10.github.io/quiz-player-react/)
 
-Just choose a date from the input and hit the 'Magic Button' and Voilà! You get served with the image from one of the most powerful satellites of NASA.
+Just choose your answer and click submit. If all 5 chosen answers are correct you get a nice little surprise!
 
 ![Quiz app project React](/thumb.jpg)
 
