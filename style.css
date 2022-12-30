@@ -9,12 +9,17 @@ body{
     margin: 0 20%;
 }
 @media screen and (max-width: 480px) {
-    body {margin: 10px;}
+    body {margin: 10px; padding: 20px;}
     .main-element-app{
-        display: flex;
-        flex-direction: column;
-        width: 100%;
+       width: 100%;
     }
+    .answers {
+        margin-bottom: 5px;
+        column-gap: 2px;
+        font-size: 8px;
+    }
+    .individualAnswer{
+        padding: 2px 3px 2px 3px;}
 }
 
 .main-element-app{
