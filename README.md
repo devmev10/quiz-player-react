@@ -6,6 +6,7 @@ This project helped me solidify primary concept of React inlcluding basic hooks 
 [Quiz App](https://devmev10.github.io/quiz-player-react/)
 
 Just choose your answer and click submit. If all 5 chosen answers are correct you get a nice little surprise!
+Have fun playing.
 
 ![Quiz app project React](/thumb.jpg)
 
