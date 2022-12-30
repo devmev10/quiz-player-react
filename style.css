@@ -15,6 +15,7 @@ body{
         flex-direction: column;
         width: 100%;
     }
+}
 
 .main-element-app{
     display: flex;
