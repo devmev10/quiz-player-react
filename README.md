@@ -1,7 +1,7 @@
 # Epic Quiz App
 
 A Quiz app built using React using Open Trivia DB API.
-This project helped me solidify primary concept of React inlcluding basic hooks like useState and useEffect in addition to passing states as props.
+This project helped me solidify primary concept of React including basic hooks like useState and useEffect in addition to passing states as props.
 
 [Quiz App](https://devmev10.github.io/quiz-player-react/)
 
