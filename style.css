@@ -9,9 +9,11 @@ body{
     margin: 0 20%;
 }
 @media screen and (max-width: 480px) {
-    body {
-        margin: 10px;
-        
+    body {margin: 10px;}
+    .main-element-app{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
     }
 
 .main-element-app{
